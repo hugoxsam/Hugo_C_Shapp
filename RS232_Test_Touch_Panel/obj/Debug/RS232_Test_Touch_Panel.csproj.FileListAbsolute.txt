@@ -1,0 +1,10 @@
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\bin\Debug\RS232_Test_Touch_Panel.exe.config
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\bin\Debug\RS232_Test_Touch_Panel.exe
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\bin\Debug\RS232_Test_Touch_Panel.pdb
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.csproj.AssemblyReference.cache
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.Form1.resources
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.Properties.Resources.resources
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.csproj.GenerateResource.cache
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.csproj.CoreCompileInputs.cache
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.exe
+D:\hugolaio.job_driver\01.@My_Worlspaces(cloud)\VS2019(cloud)\C#\My Test\RS232_Test_Touch_Panel\RS232_Test_Touch_Panel\obj\Debug\RS232_Test_Touch_Panel.pdb
