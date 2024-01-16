@@ -1,0 +1,10 @@
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\bin\Debug\CheckTriangle_line_APP.exe.config
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\bin\Debug\CheckTriangle_line_APP.exe
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\bin\Debug\CheckTriangle_line_APP.pdb
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.csproj.AssemblyReference.cache
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.Form1.resources
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.Properties.Resources.resources
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.csproj.GenerateResource.cache
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.csproj.CoreCompileInputs.cache
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.exe
+D:\My Github\Hugoxsam\C shapp\CheckTriangle_line_APP\obj\Debug\CheckTriangle_line_APP.pdb
